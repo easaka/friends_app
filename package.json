@@ -1,5 +1,4 @@
 {
   "name": "friends",
-  "private": true,
-  "dependencies": {}
+  "private": true
 }
